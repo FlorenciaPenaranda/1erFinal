@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1561405364 source:c:\users\fpenaranda\desktop\florutn\1erfinal_lab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561404658 c:\users\fpenaranda\desktop\florutn\1erfinal_lab1\linkedlist.h
+
+1561471765 source:c:\users\fpenaranda\desktop\florutn\1erfinal_lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1561476965 source:c:\users\fpenaranda\desktop\florutn\1erfinal_lab1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Cliente.h"
+
+1561476787 c:\users\fpenaranda\desktop\florutn\1erfinal_lab1\cliente.h
+	"LinkedList.h"
+
+1561404657 source:c:\users\fpenaranda\desktop\florutn\1erfinal_lab1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1561404657 c:\users\fpenaranda\desktop\florutn\1erfinal_lab1\utn.h
+
